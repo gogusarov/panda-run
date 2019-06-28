@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/panda-run/static/css/main.476e28c7.chunk.css",
+    "main.js": "/panda-run/static/js/main.0eb5099b.chunk.js",
+    "main.js.map": "/panda-run/static/js/main.0eb5099b.chunk.js.map",
+    "runtime~main.js": "/panda-run/static/js/runtime~main.26928e5b.js",
+    "runtime~main.js.map": "/panda-run/static/js/runtime~main.26928e5b.js.map",
+    "static/js/2.82879507.chunk.js": "/panda-run/static/js/2.82879507.chunk.js",
+    "static/js/2.82879507.chunk.js.map": "/panda-run/static/js/2.82879507.chunk.js.map",
+    "index.html": "/panda-run/index.html",
+    "precache-manifest.20d82a5577e3c850e478ddd8bd56aee8.js": "/panda-run/precache-manifest.20d82a5577e3c850e478ddd8bd56aee8.js",
+    "service-worker.js": "/panda-run/service-worker.js",
+    "static/css/main.476e28c7.chunk.css.map": "/panda-run/static/css/main.476e28c7.chunk.css.map",
+    "static/media/runcity.jpg": "/panda-run/static/media/runcity.bc340817.jpg"
+  }
+}
