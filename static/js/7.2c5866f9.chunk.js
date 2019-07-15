@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{34:function(t,r,n){t.exports={startBlock:"StartScreen_startBlock__2DCaq",logo:"StartScreen_logo__1DjKj",introText:"StartScreen_introText__3JmEB",startBtn:"StartScreen_startBtn__P1ASS"}}}]);
+//# sourceMappingURL=7.2c5866f9.chunk.js.map
