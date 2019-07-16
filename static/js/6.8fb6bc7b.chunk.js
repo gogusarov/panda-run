@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{33:function(e,o,c){e.exports={gameBlock:"GameScreen_gameBlock__2c5dY",toggleBlock:"GameScreen_toggleBlock__je0qq",toggleLabel:"GameScreen_toggleLabel__3d1WZ"}}}]);
-//# sourceMappingURL=6.8fb6bc7b.chunk.js.map
