@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c2e0c9c1f8861ab469b04ba8d05122b",
+    "revision": "e5e15c62521ff352069407dda606d3e2",
     "url": "/panda-run/index.html"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panda-run/static/css/8.75cbb584.chunk.css"
   },
   {
-    "revision": "30d3766da92ac87e39da",
+    "revision": "fa8f94c34ccc5dc60f58",
     "url": "/panda-run/static/css/main.15cdd3f4.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panda-run/static/js/8.72a34d98.chunk.js"
   },
   {
-    "revision": "30d3766da92ac87e39da",
-    "url": "/panda-run/static/js/main.770ac9fe.chunk.js"
+    "revision": "fa8f94c34ccc5dc60f58",
+    "url": "/panda-run/static/js/main.1408e967.chunk.js"
   },
   {
     "revision": "bfa33d9fdc4ad56c485d",
