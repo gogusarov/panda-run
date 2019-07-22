@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c8c589369dd1833ba97b66f79e6a384",
+    "revision": "953453777047adb3723614be7972261d",
     "url": "/panda-run/index.html"
   },
   {
-    "revision": "ce5dba057bf3a2fbbabd",
-    "url": "/panda-run/static/css/0.98c605fb.chunk.css"
+    "revision": "34a0cc5da6da8c87d421",
+    "url": "/panda-run/static/css/0.7eafb507.chunk.css"
   },
   {
     "revision": "399dbedb56d5a14abc8d",
@@ -28,11 +28,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panda-run/static/css/8.75cbb584.chunk.css"
   },
   {
-    "revision": "ea91c98104be81a07db9",
+    "revision": "be68550885c93a2e385d",
     "url": "/panda-run/static/css/main.a6f151cd.chunk.css"
   },
   {
-    "revision": "ce5dba057bf3a2fbbabd",
+    "revision": "34a0cc5da6da8c87d421",
     "url": "/panda-run/static/js/0.56f1f96a.chunk.js"
   },
   {
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panda-run/static/js/8.72a34d98.chunk.js"
   },
   {
-    "revision": "ea91c98104be81a07db9",
-    "url": "/panda-run/static/js/main.c20d9638.chunk.js"
+    "revision": "be68550885c93a2e385d",
+    "url": "/panda-run/static/js/main.b4390cb6.chunk.js"
   },
   {
-    "revision": "fd0a60bdb195b19a3a00",
-    "url": "/panda-run/static/js/runtime~main.c5692c8e.js"
+    "revision": "c3c77e3495b01628fd4d",
+    "url": "/panda-run/static/js/runtime~main.23942b82.js"
   },
   {
     "revision": "adf184f84058d4484137f695513e6e43",
