@@ -1,0 +1,15 @@
+.finishBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pandaPic {
+    max-width: 375px;
+}
+
+.greeting {
+    font-size: 20px;
+    font-weight: bold;
+}

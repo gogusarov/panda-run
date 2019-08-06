@@ -1,0 +1,25 @@
+.questionBlock {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.questionTitle {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.questionText {
+
+}
+
+.questionControls {
+    display: flex;
+    width: 100%;
+    margin-top: auto;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,45 @@
+{
+  "name": "panda-run",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://gogusarov.github.io/panda-run/",
+  "dependencies": {
+    "@storeon/localstorage": "^0.5.1",
+    "classnames": "^2.2.6",
+    "dist-two-points": "^1.0.0",
+    "earth-distance-js": "^1.2.0",
+    "geo-dist": "^1.0.2",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "react-toggle": "^4.0.2",
+    "storeon": "^0.8.7"
+  },
+  "scripts": {
+    "start": "PORT=8080 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

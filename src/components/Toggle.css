@@ -1,0 +1,7 @@
+.react-toggle--checked .react-toggle-track {
+    background-color: var(--success-color)!important;
+}
+
+.react-toggle-thumb {
+    box-shadow: none!important;
+}

@@ -1,0 +1,28 @@
+.alert {
+    position: absolute;
+    width: 100%;
+    padding: 7px 10px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    opacity: 0.3;
+    transform: translateY(-100%);
+    transition: transform 0.5s ease-in;
+}
+
+.visible {
+    transform: translateY(0px);
+}
+
+.last {
+    opacity: 0.9;
+}
+
+.error {
+    background: var(--error-color);
+}
+
+.success {
+    background: var(--success-color);
+}
